@@ -1,4 +1,4 @@
-# Emmanuel Mafabi Israel 🚀
+# Emmanuel Mafabi Israel 🚀🧑🏾‍💻💫
 
 Software Engineer | Machine Learning Enthusiast | Lifelong Learner
 
