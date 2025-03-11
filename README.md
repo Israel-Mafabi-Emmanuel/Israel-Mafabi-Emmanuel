@@ -36,9 +36,8 @@ I'm always open to collaborating on exciting projects and discussing the latest 
 
 
 ## ✨ Words to Live By
-
-*"Always About my Father's Business" - Mafabi*
-*"The best way to predict the future is to create it." - Peter Drucker*
-*"The only way to do great work is to love what you do." - Steve Jobs*
+*"Always About my Father's Business" - Mafabi*  
+*"The best way to predict the future is to create it." - Peter Drucker*  
+*"The only way to do great work is to love what you do." - Steve Jobs*  
 
 Let's build something amazing together!
