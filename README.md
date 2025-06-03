@@ -31,7 +31,7 @@ Beyond my professional work, I dedicate my free time to personal projects, divin
 ## 🤝 Let's Connect!
 I'm always open to collaborating on exciting projects and discussing the latest advancements in technology. Feel free to reach out!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmanuel-Mafabi-Israel)  [![Bluesky](https://camo.githubusercontent.com/de4ef6ffc4994449314b2d888a3de69f95d871b7408c1856842f02c2c0e66f21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c7565736b792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d626c7565736b79266c6f676f436f6c6f723d7768697465)](https://bsky.app/profile/emmanuel-mafabi.bsky.social)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmanuel-Mafabi-Israel)
 
 
 
