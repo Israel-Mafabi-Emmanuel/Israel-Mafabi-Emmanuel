@@ -3,8 +3,6 @@ Hey there! 👋 I'm Emmanuel, a Software Engineer and lifelong learner on a miss
 
 I believe in the power of open-source and collaborative creation. My projects are my playground for innovation, where you’ll find me experimenting with C++, Assembly, and building intelligent solutions.
 
-Let's code the world! 🚀.
-
 
 ## 🌱 Currently Learning
 
@@ -22,8 +20,6 @@ I'm always open to collaborating on exciting projects and discussing the latest 
 
 
 ## ✨ Words to Live By
-*"Always About my Father's Business" - Mafabi*  
-*"The best way to predict the future is to create it." - Peter Drucker*  
-*"The only way to do great work is to love what you do." - Steve Jobs*  
+*"Always About my Father's Business" - Mafabi* 
 
-Let's build something amazing together!
+Let's code the world! 🚀.
