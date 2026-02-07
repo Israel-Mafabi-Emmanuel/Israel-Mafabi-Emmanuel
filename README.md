@@ -1,6 +1,5 @@
 # Emmanuel (Israel-Mafabi)
 ### Engineering a Better World, One Line at a Time. 🚀
-
 I am a Software Engineer dedicated to solving complex problems through code. I thrive at the intersection of **Systems Programming** and **Artificial Intelligence**, believing that true innovation happens when we understand the machine deeply to build intelligence scalably.
 
 * 🔭 **Working on:** High-performance ML pipelines and system-level optimizations.
@@ -18,6 +17,6 @@ I am a Software Engineer dedicated to solving complex problems through code. I t
 ### ✨ Philosophy
 > *"Always About my Father's Business"*
 
-My code is an extension of my values: Excellence, Integrity, and Impact. Let's build something that matters.
+Code is my canvas, and Excellence, Integrity, and Impact are my primary colors. I’m here to build meaningful tech and keep the 'world.exe' from looking grayscale. 🌍✨
 
 [Get in Touch](https://github.com/Israel-Mafabi-Emmanuel)
